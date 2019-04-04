@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\ChuIII, Romy\Unit 4 (Procedures & Functions)\24.ConvertTempRChuIII\24.ConvertTempRChuIII\obj\Debug\24.ConvertTempRChuIII.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\ChuIII, Romy\Unit 4 (Procedures & Functions)\24.ConvertTempRChuIII\24.ConvertTempRChuIII\obj\Debug\_24.ConvertTempRChuIII.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\ChuIII, Romy\Unit 4 (Procedures & Functions)\24.ConvertTempRChuIII\24.ConvertTempRChuIII\obj\Debug\_24.ConvertTempRChuIII.frmTempConvert.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\ChuIII, Romy\Unit 4 (Procedures & Functions)\24.ConvertTempRChuIII\24.ConvertTempRChuIII\obj\Debug\24.ConvertTempRChuIII.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\ChuIII, Romy\Unit 4 (Procedures & Functions)\24.ConvertTempRChuIII\24.ConvertTempRChuIII\bin\Debug\24.ConvertTempRChuIII.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\ChuIII, Romy\Unit 4 (Procedures & Functions)\24.ConvertTempRChuIII\24.ConvertTempRChuIII\bin\Debug\24.ConvertTempRChuIII.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\ChuIII, Romy\Unit 4 (Procedures & Functions)\24.ConvertTempRChuIII\24.ConvertTempRChuIII\bin\Debug\24.ConvertTempRChuIII.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\ChuIII, Romy\Unit 4 (Procedures & Functions)\24.ConvertTempRChuIII\24.ConvertTempRChuIII\obj\Debug\24.ConvertTempRChuIII.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\ChuIII, Romy\Unit 4 (Procedures & Functions)\24.ConvertTempRChuIII\24.ConvertTempRChuIII\obj\Debug\24.ConvertTempRChuIII.pdb
