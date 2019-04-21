@@ -46,35 +46,35 @@
             // 
             this.txtAptNum.Location = new System.Drawing.Point(172, 12);
             this.txtAptNum.Name = "txtAptNum";
-            this.txtAptNum.Size = new System.Drawing.Size(100, 20);
+            this.txtAptNum.Size = new System.Drawing.Size(195, 20);
             this.txtAptNum.TabIndex = 0;
             // 
             // txtStreet
             // 
             this.txtStreet.Location = new System.Drawing.Point(172, 38);
             this.txtStreet.Name = "txtStreet";
-            this.txtStreet.Size = new System.Drawing.Size(100, 20);
+            this.txtStreet.Size = new System.Drawing.Size(195, 20);
             this.txtStreet.TabIndex = 1;
             // 
             // txtCity
             // 
             this.txtCity.Location = new System.Drawing.Point(172, 64);
             this.txtCity.Name = "txtCity";
-            this.txtCity.Size = new System.Drawing.Size(100, 20);
+            this.txtCity.Size = new System.Drawing.Size(195, 20);
             this.txtCity.TabIndex = 2;
             // 
             // txtProvince
             // 
             this.txtProvince.Location = new System.Drawing.Point(172, 90);
             this.txtProvince.Name = "txtProvince";
-            this.txtProvince.Size = new System.Drawing.Size(100, 20);
+            this.txtProvince.Size = new System.Drawing.Size(195, 20);
             this.txtProvince.TabIndex = 3;
             // 
             // txtPostalCode
             // 
             this.txtPostalCode.Location = new System.Drawing.Point(172, 116);
             this.txtPostalCode.Name = "txtPostalCode";
-            this.txtPostalCode.Size = new System.Drawing.Size(100, 20);
+            this.txtPostalCode.Size = new System.Drawing.Size(195, 20);
             this.txtPostalCode.TabIndex = 4;
             // 
             // btnDisplay
@@ -145,7 +145,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 245);
+            this.ClientSize = new System.Drawing.Size(379, 245);
             this.Controls.Add(this.lblOutput);
             this.Controls.Add(this.lblPostalCode);
             this.Controls.Add(this.lblProvince);
@@ -159,7 +159,7 @@
             this.Controls.Add(this.txtStreet);
             this.Controls.Add(this.txtAptNum);
             this.Name = "frmAddress";
-            this.Text = "Form1";
+            this.Text = "Address Program Romy I. Chu III";
             this.ResumeLayout(false);
             this.PerformLayout();
 
